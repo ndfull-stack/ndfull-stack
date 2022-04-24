@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndfull-stack currently working as Salesforce Developer Consultant at MTX Group
+- 👋 Hi, I’m Namandeep Singh currently working as Salesforce Developer Consultant at MTX Group
 - 👀 I’m competent in JavaScript,Apex, LWC, ReactJS and Salesforce Platform. I also have experience in QA in Integration and Functional Teams. I have two year of experience in Developing and Testing Salesforce Applications.
 - 🌱 I’m currently learning Javascript and LWC which is a JS Framework for building applications in Salesforce
 - 💞️ I’m looking to collaborate on Javascript projects
