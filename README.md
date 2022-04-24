@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namandeep Singh currently working as Salesforce Developer Consultant at MTX Group
-- 👀 I’m competent in JavaScript,Apex, LWC, ReactJS and Salesforce Platform. I also have experience in QA in Integration and Functional Teams. I have two year of experience in Developing and Testing Salesforce Applications.
+- 👀 I’m competent in JavaScript,Apex, LWC, ReactJS and Salesforce Platform. I also have experience in QA in Integration and Functional Teams. I have been developing and Testing Salesforce Applications from past two years.
 - 🌱 I’m currently learning Javascript and LWC which is a JS Framework for building applications in Salesforce
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me - Reach out to me at https://www.linkedin.com/in/nd-singh/
